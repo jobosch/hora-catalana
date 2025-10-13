@@ -1,0 +1,46 @@
+<!--" 
+ Hora Catalana
+ Codi creat amb l'ajuda de ChatGPT
+"-->
+
+<!--" <?xml version="1.0" encoding="UTF-8"?> ""-->
+<schemalist>
+  <schema id="org.gnome.shell.extensions.hora-catalana" path="/org/gnome/shell/extensions/hora-catalana/">
+    <key name="show-date" type="b">
+      <default>true</default>
+      <summary>Mostra la data</summary>
+      <description>Si és cert, mostra la data abans de l’hora al panell.</description>
+    </key>
+    
+    <key name="clock-format" type="s">
+      <default>'text'</default>
+      <summary>Format del rellotge</summary>
+      <description>
+        Determina com es mostra l'hora. Pot ser:
+        'text' — Només hora en text
+        'digital' — Només hora digital
+        'mixed' — Hora digital i en text
+      </description>
+    </key>
+    
+    <key name="font-size" type="i">
+      <default>14</default>
+      <summary>Mida de la lletra</summary>
+      <description>Controla la mida del text del rellotge en punts</description>
+    </key>
+
+    <key name="font-family" type="s">
+      <default>'Sans'</default>
+      <summary>Tipus de lletra</summary>
+      <description>Defineix la font utilitzada pel rellotge</description>
+    </key>
+    
+    <key name="font-color" type="s">
+      <default>'#FFFFFF'</default>
+      <summary>Color del text</summary>
+      <description>Defineix el color del text del rellotge en format hexadecimal (#RRGGBB)</description>
+    </key>
+
+
+  </schema>
+</schemalist>

@@ -1,0 +1,11 @@
+{
+    "uuid": "hora-catalana@github.jobosch",
+    "name": "Hora Catalana",
+    "description": "Mostra la data i hora en català amb el sistema de campanar tradicional",
+    "version": 1,
+    "shell-version": ["46"],
+    "settings-schema": "org.gnome.shell.extensions.hora-catalana",
+    "url": "https://github.com/jobosch/hora-catalana",
+    "gettext-domain": "hora-catalana"
+}
+
