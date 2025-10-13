@@ -3,7 +3,6 @@
  Codi creat amb l'ajuda de ChatGPT
 "-->
 
-<!--" <?xml version="1.0" encoding="UTF-8"?> ""-->
 <schemalist>
   <schema id="org.gnome.shell.extensions.hora-catalana" path="/org/gnome/shell/extensions/hora-catalana/">
     <key name="show-date" type="b">
