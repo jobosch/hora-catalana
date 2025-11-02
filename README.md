@@ -4,7 +4,7 @@
 
 **Hora Catalana** és una extensió per al GNOME Shell que mostra l’hora en format català tradicional — amb el sistema de quarts — i amb opcions de personalització com el tipus de lletra, mida, color i format (text o digital).
 
-Basada en l'extensió [**Text Clock**](https://extensions.gnome.org/extension/4472/text-clock/) de [benica.dev](https://benica.dev) i feta amb l'ajuda de ChatGPT.
+Basada en l'extensió [**Text Clock**](https://extensions.gnome.org/extension/7186/text-clock/) de [benica.dev](https://benica.dev) i feta amb l'ajuda de ChatGPT.
 
 ---
 
