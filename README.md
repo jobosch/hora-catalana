@@ -6,6 +6,8 @@
 
 Basada en l'extensió [**Text Clock**](https://extensions.gnome.org/extension/7186/text-clock/) de [benica.dev](https://benica.dev) i feta amb l'ajuda de ChatGPT.
 
+També es pot descarregar fàcilment des de [**GNOME Shell extensions**](https://extensions.gnome.org/extension/8687/hora-catalana/).
+
 ---
 
 ## Funcionalitats
@@ -44,6 +46,8 @@ Basada en l'extensió [**Text Clock**](https://extensions.gnome.org/extension/71
 **Catalan Time** is a GNOME Shell extension that displays the time in the traditional Catalan format — using the “quarters” bell tower system — and offers customization options such as font type, size, color, and format (text or digital).
 
 Based on the [**Text Clock**](https://extensions.gnome.org/extension/7186/text-clock/) extension by [benica.dev](https://benica.dev) and created with the help of ChatGPT.
+
+It can also be downloaded from [**GNOME Shell extensions**](https://extensions.gnome.org/extension/8687/hora-catalana/).
 
 ---
 
