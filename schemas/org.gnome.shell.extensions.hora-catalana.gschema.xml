@@ -40,6 +40,11 @@
       <description>Defineix el color del text del rellotge en format hexadecimal (#RRGGBB)</description>
     </key>
 
+    <key name="separator" type="s">
+      <default>'·'</default>
+      <summary>Separador</summary>
+      <description>Caràcter utilitzat per separar la data, l'hora digital i l'hora en text. Cadena buida per a sense separador.</description>
+    </key>
 
   </schema>
 </schemalist>
